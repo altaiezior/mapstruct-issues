@@ -12,6 +12,7 @@
     <modules>
         <module>issue-4037</module>
         <module>common</module>
+        <module>issue-4030</module>
     </modules>
 
     <properties>
